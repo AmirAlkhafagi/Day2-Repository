@@ -1,2 +1,2 @@
 D2File2
-selective commit, discard changes
+selective commit, discard changes, pull changes from remote repository
